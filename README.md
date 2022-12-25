@@ -8,7 +8,7 @@
   	* 	Small, cozy coffeshops
   	* 	knock knock jokes
   	
-- 🌱 I’m currently learning WebGL, fullstack JS, social enterpenurship and diving
+- 🌱 I’m currently learning WebGL, Fullstack JS (Node, express, prisma, postgress), Social enterpenurship and Diving
 
 - 📫 How to reach me: https://linkedin.com/in/amerasalah
 
