@@ -1,4 +1,4 @@
-- 👋 Greetings, this is Amira 🧕🇪🇬
+- 👋 Hey, i'm Amira 🧕🇪🇬
 
 - 👀 I’m interested in:
  	* 	Collecting goofy socks 
